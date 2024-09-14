@@ -1,5 +1,7 @@
 .Image{
     width: 100%;
     height: 100vh;
-    background-image: url(https://cleanfoodcrush.com/wp-content/uploads/2019/03/Smoked-Salmon-Breakfast-Bowls-Recipe.jpg);
+    background-image: url(./imagen3.png);
+    background-repeat: no-repeat;
+    background-size:contain;
 }
